@@ -4,5 +4,5 @@
     <string name="str2">zweite Zeichenfolge</string>
     <string name="str3">dritter Zeichenfolge</string>
     <string name="str4">four string</string>
-    <string name="5555" comment="5555">5555</string>
+    <string name="str5">five string</string>
 </resources>
