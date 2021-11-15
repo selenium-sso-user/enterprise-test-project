@@ -4,4 +4,5 @@
     <string name="str2">друга стрічка</string>
     <string name="str3">third string</string>
     <string name="str4">four string</string>
+    <string name="5555" comment="5555">5555</string>
 </resources>
