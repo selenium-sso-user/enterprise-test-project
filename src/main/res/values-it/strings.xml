@@ -3,4 +3,7 @@
     <string name="str1">erste Zeichenfolge</string>
     <string name="str2">zweite Zeichenfolge</string>
     <string name="str3">dritter Zeichenfolge</string>
+    <string name="str4">four string</string>
+    <string name="str5">five string</string>
+    <string name="6" comment="6666">6666</string>
 </resources>
