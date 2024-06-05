@@ -2,3 +2,4 @@ Identifier,Source string,Translation,Context,Labels,Max. length
 str1,first string,перша стрічка,str1,,
 str2,second string,друга стрічка,str2,,
 str3,third string,третій рядок,str3,,
+test,test,тест,test,,
