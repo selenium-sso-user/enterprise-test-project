@@ -1,0 +1,5 @@
+Identifier,Source string,Translation,Context,Labels,Max. length
+str1,first string,erste Zeichenfolge,str1,,
+str2,second string,zweite Zeichenfolge,str2,,
+str3,third string,dritter Zeichenfolge,str3,,
+test,test,prova,test,,
